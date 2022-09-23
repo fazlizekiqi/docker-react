@@ -14,7 +14,7 @@ const App = () => (
         target="_blank"
         rel="noopener noreferrer"
       >
-        Frontend is running
+        I was changed in the feature branch
       </a>
     </header>
   </div>
